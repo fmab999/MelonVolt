@@ -41,7 +41,7 @@ Compact NVIDIA GPU tuning console for GTX 10 and RTX 20–50 series.
 
 ## Download
 
-Download the latest version from the **Releases** section.
+### [⬇️ Download MelonVolt v.01](https://github.com/fmab999/MelonVolt/releases/download/v.01/MelonVolt_v.01.exe)
 
 ## Warning
 
